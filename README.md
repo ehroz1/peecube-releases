@@ -56,6 +56,8 @@
 
 ## Установка
 
+<p align="center"><img src="docs/install-bg.png" width="540" alt="Окно установки Peecube"></p>
+
 1. Скачайте **[Peecube.dmg](https://github.com/ehroz1/peecube-releases/releases/latest/download/Peecube.dmg)** и откройте его.
 2. Перетащите **Peecube** в папку «Программы».
 3. Первый запуск: правый клик по Peecube → «Открыть» → «Открыть».
